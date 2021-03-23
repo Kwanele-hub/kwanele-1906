@@ -1,0 +1,62 @@
+body{background:url("https://cdn.pixabay.com/photo/2015/01/06/09/04/elephant-590020_960_720.jpg") no-repeat;     
+    background-size: cover;    
+}
+h1{
+    text-align: center;
+color: white;
+font-family: monospace;
+font-size: 100px;
+
+}
+p{
+    padding: 100px;
+    text-align: justify;
+    color: white;
+    font-size:large ;
+    font-style: oblique;
+
+}
+.color{
+    border: 10px soliid  ;
+    margin-right:100vh;
+    text-align: left; 
+    background-color: rgba(34, 47, 63, 0.472);
+    width: 100%;
+}
+.container{
+   border-bottom: 9vh;
+    margin:0px 20% 0px 20%;
+
+} 
+.le{padding-bottom:15vh;
+    padding-top:15vh;
+    text-align:center;  
+    margin-top:3px;
+    font-size:5vh;
+    margin-top:40vh;
+}
+
+
+
+.kwa>a{
+    color: #333;
+    text-decoration: none;
+    font-size: 30px; 
+    margin:0vh 4vh;
+    text-align: center;
+    
+}
+.kwa{
+    width: 100%;
+    background-color: bisque;
+    color: #333;
+    text-align: center;
+}
+.k{
+    color: white;
+    text-decoration: none;
+    font-size: 15;
+}
+.img{
+    align-items: center;
+}
