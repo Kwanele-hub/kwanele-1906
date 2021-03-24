@@ -12,4 +12,4 @@ The if statement itself is just that, a control flow statement. If the statement
 
 
 # What is '$' in JavaScript?
-The $ represents the jQuery Function, and is actually a shorthand alias for jQuery. It is typically used as a selector (i.e. a function that returns a set of elements found in the DOM).the $ is meant to refer jQuery , in jquery when you want to ad some event to the code you do it like this usually : jquery("element").event(function to define); for saving time in writing code the jquery team decided to make it like this: $("element").event(function to define); so $ == jquery.
+String interpolation is replacing placeholders with values in a string literal. The string interpolation in JavaScript is performed by template literals (strings wrapped in backticks ` ) and ${expression} as a placeholder.String interpolation is a process substituting values of variables into placeholders in a string. For instance, if you have a template for saying hello to a person like "Hello {Name of person}, nice to meet you!", you would like to replace the placeholder for name of person with an actual name.
