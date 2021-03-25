@@ -1,7 +1,7 @@
 ---
-layout:
-type: "How javascript is treating me"
-date: 2020-03-10
+layout: post
+type: "how javascript is treating me"
+date: '2020-03-10'
 ---
 
 ##How javascript is treating me.

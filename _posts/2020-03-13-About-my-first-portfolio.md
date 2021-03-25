@@ -1,8 +1,8 @@
 ---
-layout: 
-type: "About my first portfolio"
-date: 2020-03-13
---- 
+layout: post
+type: "About my portfolio"
+date: '2020-03-13'
+---
 ## About my first portfolio
 
 Truly speaking I wasn't overwhelmed with everything because I wasn't able to create a folder using a terminal.
