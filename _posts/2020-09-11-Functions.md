@@ -3,7 +3,7 @@ layout: post
 type: "Functions"
 date: 2020-09-11
 ---
-##Functions
+## Functions
 A JavaScript function is a block of code designed to perform a particular task.
 
 function myFunction(var1, var2) {
