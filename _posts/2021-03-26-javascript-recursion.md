@@ -1,9 +1,9 @@
 ---
 layout: post
 type: "javascript recursion"
-date: 2020-09-04
+date: 2021-03-26
 ---
-##Javascript recursion
+## Javascript recursion
 
 Recursion is when a function calls by itself.Recursive functions let you perform a unit of work multiple times.
 This is exactly what for/while loops let us accomplish!
