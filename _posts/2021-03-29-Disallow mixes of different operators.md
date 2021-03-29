@@ -16,16 +16,10 @@ var foo = (a && b) || c || d;  GOOD
 var foo = a && (b || c || d);  GOOD
 
 # Examples of incorrect code for this rule:
-
-eslint no-mixed-operators: "error"
-
 var foo = a && b < 0 || c > 0 || d + 1 === 0;
 var foo = a + b * c;
 
 # Examples of correct code for this rule:
-
-eslint no-mixed-operators: "error"
-
 var foo = a || b || c;
 var foo = a && b && c;
 var foo = (a && b < 0) || c > 0 || d + 1 === 0;
