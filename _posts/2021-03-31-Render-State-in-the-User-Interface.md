@@ -1,9 +1,9 @@
 ---
 layout: post
-type: "Functions"
-date: 2020-10-16
+type: "how to render state in the user Interfacdpassed"
+date: 2021-03-30
 ---
-##Render State in the User InterfacePassed
+## Render State in the User InterfacePassed
 
 My week has been perfect. I was busy with FreeCodeCamp activities which taught me so much about "Render State in the User InterfacePassed", 
 this challenge was very amazing.
