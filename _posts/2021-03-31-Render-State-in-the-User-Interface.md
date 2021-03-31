@@ -1,7 +1,7 @@
 ---
 layout: post
 type: "how to render state in the user Interfacdpassed"
-date: 2021-03-30
+date: 2021-03-31
 ---
 ## Render State in the User InterfacePassed
 
