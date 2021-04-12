@@ -8,7 +8,6 @@ A callback is a function passed as an argument to another function. This techniq
 # example:
 
 the isOddNumber is a callback function. When you pass a callback function into another function, you just pass the reference of the function i.e. the function name without the parentheses () .
-
- # example:
+# example:
 
 function greeting(name) { alert('Hello ' + name); } function processUserInput(callback) { var name = prompt('Please enter your name. '); callback(name); } processUserInput(greeting);
