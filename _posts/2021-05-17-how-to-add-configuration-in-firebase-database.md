@@ -1,5 +1,6 @@
 ---
 layout: post
 type: "How to add  configuration in firebase database"
-date: 2021-05-18
+date: 2021-05-17
 ---
+## How to add  configuration in firebase database
