@@ -11,4 +11,10 @@ of the Web Server use case.
 It's Open Source and has lots and lots of pre-built
 packages you can just drop in and use.
 
-## Express 
+## Express web server code
+
+const express = require('express')
+const app = express()
+
+app.get('/',(req, res)=> res.send());
+app.listen(3000, => console.log());
