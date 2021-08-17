@@ -16,5 +16,5 @@ packages you can just drop in and use.
 const express = require('express')
 const app = express()
 
-app.get('/',(req, res)=> res.send());
-app.listen(3000, => console.log());
+app.get('/',(req, res)=> res.send('hello world));
+app.listen(3000, => console.log(connected));
