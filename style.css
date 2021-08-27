@@ -79,10 +79,11 @@ p{
     color: #333;
     text-align: center;
 }
-.k{
+.k p{
     color: rgb(14, 13, 13);
     text-decoration: none;
     font-size: 15;
+    text-align:center;
 }
 
 img{
